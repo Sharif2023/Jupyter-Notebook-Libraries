@@ -18,6 +18,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn scipy
 pip install tensorflow keras torch torchvision torchaudio
 ```
 
+if not works, try in downgraded version of python.
+
 ### Data Visualization Libraries:
 
 ```bash
