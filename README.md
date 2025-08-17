@@ -61,5 +61,5 @@ pip install sqlalchemy psycopg2 pymysql
 ### Others:
 
 ```bash
-pip install tqdm pillow pyautogui requests
+pip install tqdm pillow pyautogui requests hdbscan
 ```
